@@ -1,0 +1,19 @@
+{
+  "name": "nodejsexpress",
+  "version": "1.0.0",
+  "description": "Dummy NodeJS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test:c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoojaMgr/NodeJSDummyProject.git"
+  },
+  "author": "Pooja Thapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PoojaMgr/NodeJSDummyProject/issues"
+  },
+  "homepage": "https://github.com/PoojaMgr/NodeJSDummyProject#readme"
+}
